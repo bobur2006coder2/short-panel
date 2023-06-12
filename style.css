@@ -1,0 +1,31 @@
+li{
+    text-transform: capitalize;
+    list-style: none;
+    text-align: left;
+}
+
+ul{
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+
+.btn{
+    background-color: aqua;
+    /* width: 320px; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 50px;
+    border: none;
+    padding: 5px 25px ;
+}
+
+.fa-bars{
+    font-size: 25px;
+   
+}
+
+.none{
+    display: none;
+}
